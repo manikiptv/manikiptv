@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Md Manik
 #### IPTV m3u8
-![IPTV m3u8](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/p960x960/274350686_5595396770527970_4955334045978361640_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFNVwRFoIx73pd4HKLjZxXckQFTtSfiETyRAVO1J-IRPJoEWHxB6IU8OJNM7aWlCNdxIB8G6gOzN0P3MSNoJX7S&_nc_ohc=MCjkO2gSV4gAX_b-l0b&_nc_ht=scontent.fdac14-1.fna&oh=00_AT90ErEsPX_sbAOo1mhEzfHUMaH3BlkKlGqLsfuJn-Rcow&oe=6217D999)
-
 Cable Operator
 
 Skills: Satellite receiver & m3u8
